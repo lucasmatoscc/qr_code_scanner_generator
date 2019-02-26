@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "292185924140",
+    "firebase_url": "https://pricecapture-e4f32.firebaseio.com",
+    "project_id": "pricecapture-e4f32",
+    "storage_bucket": "pricecapture-e4f32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292185924140:android:f833735d79842e4f",
+        "android_client_info": {
+          "package_name": "br.com.pricecapture.qrcodescannergenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292185924140-s8tke94cod847fn23qbejpg0nc43f7ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_iVVNrB_cT4HJTXHXbE_8uOmdQQXSgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
